@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td align="center" width="33%"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="58" alt="Python icon" /></a><br /><strong>Python</strong></td>
-<td align="center" width="34%"><a href="https://aws.amazon.com/bedrock/"><img src="https://iconography.electriceye.lol/AWS/Arch_Artificial-Intelligence/64/Arch_Amazon-Bedrock_64.svg" height="58" alt="Amazon Bedrock icon" /></a><br /><strong>Amazon Bedrock</strong></td>
+<td align="center" width="34%"><a href="https://aws.amazon.com/bedrock/"><img src="https://awsfundamentals.com/assets/aws-icons/Arch_Amazon-Bedrock_64.svg" height="58" alt="Amazon Bedrock icon" /></a><br /><strong>Amazon Bedrock</strong></td>
 <td align="center" width="33%"><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="58" alt="Streamlit icon" /></a><br /><strong>Streamlit</strong></td>
 </tr>
 </table>
