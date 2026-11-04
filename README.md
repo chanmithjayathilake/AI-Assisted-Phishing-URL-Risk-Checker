@@ -193,6 +193,22 @@ For screenshots, AWS permissions, console actions, and troubleshooting, read the
 - HTTPS alone does not prove a URL is legitimate; no URL-only heuristic is reliable enough for production decisions.
 - The provided PDF may contain AWS Console or VS Code screenshots: **review and redact account identifiers or other sensitive details before publishing publicly**.
 
+
+---
+
+## 🎬 Project Demonstration
+
+Watch the **AI-Assisted Phishing URL Risk Checker** in action, demonstrating URL risk analysis and AI-powered explanations using Amazon Bedrock.
+
+<div align="center">
+
+### ▶️ Phishing URL Risk Checker – Live Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Project_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](./Phishing%20URL%20Risk%20Checker%20-%20Demo%20.mp4)
+
+</div>
+
+
 ## 📚 References & Credits
 
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) · [Amazon Nova Micro](https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-amazon-nova-micro.html)
